@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAYRA", "CAYRA\CAYRA.csproj", "{E0A70A5B-5CCF-442C-885A-92C88D8D6EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDN", "RDN\RDN.csproj", "{4A470960-9C76-4237-9D4D-09FF4F99AB6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A70A5B-5CCF-442C-885A-92C88D8D6EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A70A5B-5CCF-442C-885A-92C88D8D6EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A70A5B-5CCF-442C-885A-92C88D8D6EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A70A5B-5CCF-442C-885A-92C88D8D6EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A470960-9C76-4237-9D4D-09FF4F99AB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A470960-9C76-4237-9D4D-09FF4F99AB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A470960-9C76-4237-9D4D-09FF4F99AB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A470960-9C76-4237-9D4D-09FF4F99AB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C843AB2-6C0B-45F5-A143-7D4E0A8C4366}
+	EndGlobalSection
+EndGlobal
